@@ -1,0 +1,30 @@
+form{
+    width: 30%;
+    background-color: lightgray;
+    margin-top: 0 auto;
+    margin-top: 100px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 40px;
+    padding-top: 25px;
+}
+
+.input-elm{
+    width: 90%;
+    height: 35px;
+    border-radius: 25px;
+    padding-left: 15px;
+    margin-top: 15px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+select, button{
+    width: 95% !important;
+    
+}
+
+button{
+    background-color: lime !important;
+}
